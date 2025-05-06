@@ -1,0 +1,2 @@
+# CodeLab-A-Customisable-E-Learning-Platform-for-Programming-Languages
+CodeLab is a customisable e-learning platform for programming languages. It was developed with the usage of Visual Studio Code for the web development and phpMyAdmin for the database management. In this project, the languages of PHP, HTML, CSS, JavaScript, and SQL were used. The CodeLab system developed was intended for personalised learning. 
